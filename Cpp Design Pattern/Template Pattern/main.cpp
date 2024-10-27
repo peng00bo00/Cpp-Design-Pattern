@@ -12,4 +12,6 @@ int main() {
 
 	delete prole_war;
 	delete prole_mag;
+
+	return 0;
 }

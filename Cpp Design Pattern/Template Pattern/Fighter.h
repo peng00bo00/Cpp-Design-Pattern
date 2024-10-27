@@ -17,7 +17,6 @@ private:
 	void play_effect();
 
 protected:
-	// character properties
 	int m_life;
 	int m_magic;
 	int m_attack;
