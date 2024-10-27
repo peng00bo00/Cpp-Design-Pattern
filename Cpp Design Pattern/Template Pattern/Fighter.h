@@ -11,6 +11,7 @@ public:
 	void JN_Burn();
 
 private:
+	virtual bool canUseJN() = 0;
 	virtual void effect_enemy() = 0;
 	virtual void effect_self() = 0;
 	void play_effect();
@@ -28,6 +29,7 @@ public:
 	F_Warrior(int life, int magic, int attack) : Fighter(life, magic, attack) { }
 
 private:
+	bool canUseJN();
 	void effect_enemy();
 	void effect_self();
 };
@@ -38,6 +40,7 @@ public:
 	F_Mega(int life, int magic, int attack) : Fighter(life, magic, attack) { }
 
 private:
+	bool canUseJN();
 	void effect_enemy();
 	void effect_self();
 };
