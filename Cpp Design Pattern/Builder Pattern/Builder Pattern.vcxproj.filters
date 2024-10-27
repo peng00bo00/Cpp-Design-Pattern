@@ -24,6 +24,12 @@
     <ClInclude Include="MonsterDirector.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DailyReportData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DailyReportBuilder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Monster.cpp">
@@ -36,6 +42,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="MonsterDirector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyReportData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyReportBuilder.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

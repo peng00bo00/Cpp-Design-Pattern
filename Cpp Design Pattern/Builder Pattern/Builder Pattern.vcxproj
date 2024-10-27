@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DailyReportBuilder.h" />
+    <ClInclude Include="DailyReportData.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="MonsterBuilder.h" />
     <ClInclude Include="MonsterDirector.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DailyReportBuilder.cpp" />
+    <ClCompile Include="DailyReportData.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="MonsterBuilder.cpp" />
