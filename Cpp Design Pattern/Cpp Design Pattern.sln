@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple Factory", "Simple Fa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factory Method Pattern", "Factory Method Pattern\Factory Method Pattern.vcxproj", "{8797C6A7-0DC7-4357-85FA-1A3C8E394C82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstract Factory Pattern", "Abstract Factory Pattern\Abstract Factory Pattern.vcxproj", "{37DBA3D5-7977-4243-AE2D-836E22753E7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{8797C6A7-0DC7-4357-85FA-1A3C8E394C82}.Release|x64.Build.0 = Release|x64
 		{8797C6A7-0DC7-4357-85FA-1A3C8E394C82}.Release|x86.ActiveCfg = Release|Win32
 		{8797C6A7-0DC7-4357-85FA-1A3C8E394C82}.Release|x86.Build.0 = Release|Win32
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Debug|x64.ActiveCfg = Debug|x64
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Debug|x64.Build.0 = Debug|x64
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Debug|x86.Build.0 = Debug|Win32
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Release|x64.ActiveCfg = Release|x64
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Release|x64.Build.0 = Release|x64
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Release|x86.ActiveCfg = Release|Win32
+		{37DBA3D5-7977-4243-AE2D-836E22753E7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
