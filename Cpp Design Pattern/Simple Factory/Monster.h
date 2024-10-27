@@ -42,5 +42,5 @@ public:
 class MonsterFactory
 {
 public:
-	Monster* createMonster(std::string strmontype);
+	static Monster* createMonster(std::string strmontype);
 };
