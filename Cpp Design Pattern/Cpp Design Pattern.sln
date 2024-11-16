@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer Pattern", "Observe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decorator Pattern", "Decorator Pattern\Decorator Pattern.vcxproj", "{00CD0E7A-5983-47E7-8221-90A7F6C3F9AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton Pattern", "Singleton Pattern\Singleton Pattern.vcxproj", "{86BCF26E-A135-4278-9E36-6773164A3BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{00CD0E7A-5983-47E7-8221-90A7F6C3F9AF}.Release|x64.Build.0 = Release|x64
 		{00CD0E7A-5983-47E7-8221-90A7F6C3F9AF}.Release|x86.ActiveCfg = Release|Win32
 		{00CD0E7A-5983-47E7-8221-90A7F6C3F9AF}.Release|x86.Build.0 = Release|Win32
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Debug|x64.ActiveCfg = Debug|x64
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Debug|x64.Build.0 = Debug|x64
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Debug|x86.Build.0 = Debug|Win32
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Release|x64.ActiveCfg = Release|x64
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Release|x64.Build.0 = Release|x64
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Release|x86.ActiveCfg = Release|Win32
+		{86BCF26E-A135-4278-9E36-6773164A3BF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
