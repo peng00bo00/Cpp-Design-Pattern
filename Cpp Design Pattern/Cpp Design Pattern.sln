@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chain of Responsibility Pat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visitor Pattern", "Visitor Pattern\Visitor Pattern.vcxproj", "{7BE8418B-7B49-4CC9-A140-171FB682FE3C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interpreter Pattern", "Interpreter Pattern\Interpreter Pattern.vcxproj", "{450C20A3-2C20-45E7-99B8-CF0D3923BD83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{7BE8418B-7B49-4CC9-A140-171FB682FE3C}.Release|x64.Build.0 = Release|x64
 		{7BE8418B-7B49-4CC9-A140-171FB682FE3C}.Release|x86.ActiveCfg = Release|Win32
 		{7BE8418B-7B49-4CC9-A140-171FB682FE3C}.Release|x86.Build.0 = Release|Win32
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Debug|x64.ActiveCfg = Debug|x64
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Debug|x64.Build.0 = Debug|x64
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Debug|x86.ActiveCfg = Debug|Win32
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Debug|x86.Build.0 = Debug|Win32
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Release|x64.ActiveCfg = Release|x64
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Release|x64.Build.0 = Release|x64
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Release|x86.ActiveCfg = Release|Win32
+		{450C20A3-2C20-45E7-99B8-CF0D3923BD83}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
